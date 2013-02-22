@@ -1,0 +1,6 @@
+30|adj + " " + noun
+10|color + " " + noun
+10|color + " " + animal
+10|animal + "'s " + noun
+10|noun + " of the " + noun2
+10|adj + " " + noun + " and " + adj2 + " " + noun2

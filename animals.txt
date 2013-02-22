@@ -1,0 +1,11 @@
+Condor
+Eagle
+Guardian
+Hawk
+Hydra
+Lady
+Lion
+Scorpion
+Spartan
+Viking
+Warrior

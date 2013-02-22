@@ -1,0 +1,10 @@
+Black
+Blue
+Gray
+Green
+Indego
+Orange
+Red
+Violet
+White
+Yellow
